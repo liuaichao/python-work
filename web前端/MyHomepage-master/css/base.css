@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+#parent {
+    overflow: hidden;
+    height: 100vh;
+}
+
+#header, #footer {
+    background: #a4a4a4;
+    height: 10%;
+}
+
+#right, #left, #middle {
+    position: relative;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    transition: 1s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main {
+    height: 80%;
+    transition: 1s;
+}
+
+#left {
+    background: #ffa7ac;
+}
+
+#middle {
+    background: #afffb0;
+}
+
+#right {
+    background: #acbfff;
+}
+
+#content {
+    opacity: 0;
+    transition: 1s;
+}

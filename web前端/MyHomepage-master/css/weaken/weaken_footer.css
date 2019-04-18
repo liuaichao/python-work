@@ -1,0 +1,26 @@
+#footer {
+    animation: weaken_footer 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes weaken_footer {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0.4;
+    }
+}
+
+#footer:hover {
+    animation: show_footer 1s;
+}
+
+@keyframes show_footer {
+    from {
+        opacity: 0.4;
+    }
+    to {
+        opacity: 1;
+    }
+}

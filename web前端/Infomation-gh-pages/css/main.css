@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+html,body { margin:0;padding:0; font-family:\5fae\8f6f\96c5\9ed1; font-size:12px; color:#333; width:100%;line-height:160%;  }
+body { background: url(../images/loadingBar.gif) center 300px no-repeat #000; }
+
+a { color: #09C ; text-decoration: none; outline:none;}
+a:visited { text-decoration: none; color: #09C;  }
+a:hover { text-decoration: none; color: #C00; }
+a:focus { outline:0;}
+a:active { text-decoration: none; }
+p { margin: 0; padding: 0;  line-height: 150%;}
+input, font ,select, option, textarea, button, fieldset, legend {font-family:\5fae\8f6f\96c5\9ed1;color: #666; font-size: 1em; line-height:120%;}
+img { border: none; }
+ul,ol,dl,li,form{ margin: 0; padding: 0 ;list-style: none;}
+div,td,PRE{ word-wrap: break-word;}
+h1,h2,h3,h4,h5,h6 { margin:0; padding:0; font-weight:normal;}
+h1{ font-size:18px; color:#333;}
+textarea{resize:none}
+div,td{ word-wrap: break-word;}
+.clear { clear:both; height:0px; width:0px; margin: 0 auto; font-size:0;}
+.hide{ display: none;}
+
+
+/*planetTravel*/ 
+.planetTravelBg_1{ background:url(../images/lift_bg_1.jpg) #000 center top fixed no-repeat}
+.planetTravelBg_2{ background:url(../images/lift_bg_2.jpg) #000 center top fixed no-repeat}
+.planetTravelBg_3{ background:url(../images/lift_bg_3.jpg) #000 center top fixed no-repeat}
+
+.planetTravelFly{  position:fixed; _position:absolute; width:1px; height:1px; z-index:0; }
+.planetTravelFlash{ position:fixed; _position:absolute; z-index:0; }
+
+
+.gridMenu{ position:absolute; left:0; top:0; width:100%; height:100%; overflow:hidden; z-index:100;}
+.gridMenu .position{ width:110%;}
+.gridMenu .logos{ position:absolute; bottom:10px;left:10px; width:290px; height:160px; background:url(../images/ico.png) 0 -200px no-repeat; z-index:1; cursor: pointer;}
+.gridMenu .logos a{ display:block; text-indent:-9999px; height:100%;}
+.gridMenu p{ padding:5px 0; margin:0;}
+
+.gridMenu .body{ position:absolute;z-index:5; top:0; display: none; left: 100px; width:400px; _width:401px; height:500px; background:#d5d5d5;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px; overflow:hidden;}
+.gridMenu .body dl{ position:relative;float:left; width:99px; height:99px; margin: 1px 0 0 1px; background:#fafafa;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px; overflow:hidden;}
+.gridMenu .body .show{ position:absolute; z-index:10; left:0; top:100px;}
+
+.gridMenu .cells li{float:left; width:99px; height:99px; border: none; border-bottom:1px dashed #222; border-right:1px dashed #222; }
+
+.gridMenu .item{ position:absolute; top:-200px; width:100px; height:100px; z-index:50;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px; cursor: pointer;}
+.gridMenu .item li{position:absolute;  display:none; width:100px; height:100px; cursor: pointer; background:#1FC4E0;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px; }
+.gridMenu .item li a{ display:block; height:100%; overflow:hidden;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px; font-size:0; text-indent:-9999px;}
+.gridMenu .item li a:hover{/* margin:5px; width:90px; height:90px;*/}
+.gridMenu .item li a.action{ }
+.gridMenu .item li span{ display: none; position:absolute; left:0; top:-100px; width:80px; height:75px; padding:10px; background:#FFF;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px; z-index:50;-webkit-box-shadow: #CCC 0px 0px 5px;
+-moz-box-shadow: #CCC 0px 0px 5px;box-shadow: #CCC 0px 3px 5px;}
+.gridMenu .item li span b{ position:absolute; top:10px; left:10px;}
+.gridMenu .item li span font{ position:absolute; left:10px; bottom:10px;}
+.gridMenu .item li span i{ position:absolute; bottom:-12px; left:35px; background: url(../images/ico.png) 0 -150px no-repeat ; display:block; width:32px; height:12px; z-index:50;}
+.gridMenu .item .thumb{ display:none; position:absolute; top:5px; left:5px; font-size:45px; line-height:100%; }
+.gridMenu .item .thumb.action{ display: block;}
+
+.gridMenu .item .show{ width:100px; height:100px;}
+.gridMenu .item .small-thumb{ position:absolute; right: 10px; top:10px; width:18px; height:18px;}
+.gridMenu .item .close{ display: none;position:absolute; width:100px; height:100px; z-index:20;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px; cursor: pointer; }
+.gridMenu .title{ position:absolute; left:10px; bottom:10px; color:#FFF; font-size:16px}
+
+.gridMenu .about-me{  background:#828282;}
+.gridMenu .about-me .close{ background: url(../images/close.png) center center no-repeat #5c5c5c;}
+.gridMenu .about-me .small-thumb{ background:url(../images/ico-8.png) 0 -650px no-repeat;}
+
+.gridMenu .about-me-body .me{ float:left; width: 200px; height:200px; background:url(../images/me.png) 10px 5px no-repeat;}
+.gridMenu .about-me-body .about{ float: left; width:180px; padding:0 9px;}
+.gridMenu .about-me-body p{ text-indent:25px;}
+.gridMenu .about-me-body .name{ display: inline-block; margin:15px 0 0 0; font-size:18px;}
+.gridMenu .about-me-body .introduction{ padding:0 10px;}
+
+
+.gridMenu .link{ background:#92c469;}
+.gridMenu .link .close{ background: url(../images/close.png) center center no-repeat #92c469;}
+.gridMenu .link .small-thumb{ background:url(../images/ico-8.png) 0 -600px no-repeat;}
+ 
+.gridMenu .link .qq-weibo{ top:0; left:100px;} 
+.gridMenu .link .qq-weibo a{ background:url(../images/gridmenu-child.jpg); }
+.gridMenu .link .blog-works{ top:-100px; left:0; }
+.gridMenu .link .blog-works a{ background:url(../images/gridmenu-child.jpg) -100px 0; }
+
+.gridMenu .blog{ background:#d77075;} 
+.gridMenu .blog .close{ background: url(../images/close.png) center center no-repeat #d77075;}
+.gridMenu .blog .small-thumb{ background:url(../images/ico-8.png) 0 -750px no-repeat;}
+
+.gridMenu .blog .travel-photography{ top:-100px; left:0;}
+.gridMenu .blog .travel-photography a{ background:url(../images/gridmenu-child.jpg) 0 -100px;}
+.gridMenu .blog .website-front-end{ top:0; left:100px;}
+.gridMenu .blog .website-front-end a{ background:url(../images/gridmenu-child.jpg) -100px -100px;}
+.gridMenu .blog .mobile-terminal{top:100px; left:100px;}
+.gridMenu .blog .mobile-terminal a{ background:url(../images/gridmenu-child.jpg) -200px -100px;}
+
+.gridMenu .contact-me-body{ background: none;}
+.gridMenu .contact-me-body .show{}
+.gridMenu .business-card{ position:relative; font-family: Verdana, Geneva, sans-serif; font-size:16px; padding: 45px 0 10px 10px; width:400px; background:url(../images/ico-8.png) 0 -200px no-repeat;}
+.gridMenu .business-card ul{}
+.gridMenu .business-card li{ position:relative; padding:2px 0 2px 40px; color:#01c0e2;}
+.gridMenu .business-card strong{ position:absolute; top:3px; left:120px; font-weight:700; color:#000000}
+.gridMenu .business-card span{ position:absolute; top:3px; left:290px;}
+.gridMenu .business-card .expand{ position:absolute; left:0; bottom:-10px; width:100%; height:10px; background:url(../images/ico-8.png) 0 -490px no-repeat;}
+
+.gridMenu .contact-me{ background:#e2a24e;}
+.gridMenu .contact-me .close{ background: url(../images/close.png) center center no-repeat #e2a24e;}
+.gridMenu .contact-me .small-thumb{ background:url(../images/ico-8.png) 0 -700px no-repeat;}
+
+.gridMenu .qq{ vertical-align:middle; display:inline-block;font-size:0;  text-indent:-9999px; width:21px; height:21px; background:url("http://wpa.qq.com/imgd?IDKEY=6d889076c98c7e3056c9940574bd1c8a68b6e217f07bd2db&pic=45");}
+
+.gridMenu .weibo{ vertical-align:middle; width:21px; height:21px; display:inline-block; font-size:0; text-indent:-9999px;}
+.gridMenu .weibo.tencent{ background:url(../images/ico-8.png) no-repeat;}
+.gridMenu .weibo.sina{ width:26px; background:url(../images/ico-8.png) -50px 0 no-repeat;}
+.gridMenu .effects-explode{position: absolute;overflow: hidden;}

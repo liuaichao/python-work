@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jq</title>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <style>
+        .item1{
+            width:200px;
+            height:200px;
+            background:red;
+        }
+    </style>
+</head>
+<body>
+    <div class="item1">
+
+    </div>
+    <script>
+        $(".item1").click(function(){
+            console.log("dnaji");
+        })
+    </script>
+    <script>
+        $(window).keydown(function(e){
+            console.log(e.keyCode);
+        })
+    </script>
+
+</body>
+</html>

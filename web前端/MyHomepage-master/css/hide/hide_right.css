@@ -1,0 +1,11 @@
+#right {
+    animation: hide_right 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hide_right {
+    to {
+        width: 0%;
+        opacity: 0;
+    }
+}

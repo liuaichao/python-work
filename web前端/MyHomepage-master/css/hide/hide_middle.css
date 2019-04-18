@@ -1,0 +1,11 @@
+#middle {
+    animation: hide_middle 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hide_middle {
+    to {
+        width: 0%;
+        opacity: 0;
+    }
+}

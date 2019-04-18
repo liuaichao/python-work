@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	outline:0;}
+body{
+	background-color:rgba(0,0,0,0.8);
+	font-family:"微软雅黑";
+	font-size:18px;}
+#leftbar{
+	width:150px;
+	float:left;
+	}
+#leftbar a{
+	text-decoration:none;
+	color:red;
+	display:block;
+	margin:10px;
+	width:100px;
+	}
+#leftbar a:hover{
+	color:#FFF;
+	text-decoration:underline;
+	background-color:#600;
+	border-radius:2px;}
+#leftbar ul li{
+	list-style-type:none;
+	border-bottom:1px solid #666;}
+#container{
+	background-color:#FFF;
+    width:960px;
+	margin:auto;
+	margin-top:20px;}
+#header{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:40px;
+	margin:10px 0 10px 0;
+	border-bottom:1px outset #999;}
+#main table{
+	position:relative;
+	margin:40px;
+	border:1px solid #63F;
+	font-size:25px;
+	color:#FFF;}
+#main tr,td{
+	border:1px solid #63F;
+	padding:0;
+	outline:0;
+	width:180px;
+	height:180px;
+	text-align:center;}
+#main table img:hover{
+	-webkit-transition:-webkit-transform 1s;
+    -webkit-transform:rotate(360deg);
+	border-radius:20px;
+}
+#main tr td:hover{
+	color:#000;
+	opacity:0.9;
+	-webkit-transition:-webkit-transform 1s;
+    -webkit-transform:rotate(360deg);
+	}
+#main a{
+	color:#FFF;
+	text-decoration:none;
+	text-align:center;}
+#main a:hover{
+	text-decoration:underline;}
+#footer{
+	text-align:center;
+	border-top:1px solid #666;
+	background-color:#000;
+	color:#FFF;
+	height:100px;}
+#footer a{
+	color:#FFF;}
+#footer a:hover{
+	color:#090;}
+#time{
+	color:#063;
+	font-size:14px;
+	text-align:right;
+	margin-bottom:10px;}
+
+
+
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:600px; top:0px;}
+50%  {background:blue; left:600px; top:0px;}
+75%  {background:green; left:0px; top:0px;}
+100% {background:red; left:0px; top:0px;}
+}
+.w{
+	color:#006;
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:80px;
+	}
+.w:hover{
+	color:#03F;
+	cursor:pointer;
+	}
+.embed{
+	float:left;
+	position:relative;
+	}
+#lx{
+	background-color:#000;
+	color:#FFF;
+	font-size:14px;
+	text-align:right;
+	margin:0;
+	outline:0;
+	height:20px;
+}
+#lx a{
+	color:#FFF;
+	text-decoration:none;}
+#lx a:hover{
+	color:#999;
+	text-decoration:underline;
+	}

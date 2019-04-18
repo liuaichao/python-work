@@ -1,0 +1,26 @@
+#header {
+    animation: weaken_header 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes weaken_header {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0.4;
+    }
+}
+
+#header:hover {
+    animation: show_header 1s;
+}
+
+@keyframes show_header {
+    from {
+        opacity: 0.4;
+    }
+    to {
+        opacity: 1;
+    }
+}

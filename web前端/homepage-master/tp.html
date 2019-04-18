@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>tp</title>
+<link rel="Shortcut Icon" href="../tupian/favicon.ico"> 
+<script type="text/javascript" src="js/jquery-1.10.2.js"></script>   <!--jquery文件的应用-->
+<style type="text/css">
+*{
+	margin:0;
+	padding:0;
+	outline:0;}
+body{
+	background-color:rgba(0,0,0,0.8);
+	font-family:"微软雅黑";
+	font-size:18px;}
+#leftbar{
+	width:150px;
+	float:left;
+	}
+#leftbar a{
+	text-decoration:none;
+	color:#06C;
+	display:block;
+	margin:10px;
+	width:100px;
+	}
+#leftbar a:hover{
+	color:#FFF;
+	text-decoration:underline;
+	background-color:#600;
+	border-radius:2px;}
+#leftbar ul li{
+	list-style-type:none;
+	border-bottom:1px solid #666;}
+#container{
+	background-color:#FFF;
+    width:960px;
+	margin:auto;
+	margin-top:20px;}
+#header{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:40px;
+	margin:10px 0 10px 0;
+	border-bottom:1px outset #999;}
+
+#footer{
+	text-align:center;
+	border-top:1px solid #666;
+	background-color:#000;
+	color:#FFF;
+	height:100px;}
+#footer a{
+	color:#FFF;}
+#footer a:hover{
+	color:#090;}
+#time{
+	color:#063;
+	font-size:14px;
+	text-align:right;
+	margin-bottom:10px;}
+.w{
+	color:#006;
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:80px;
+	}
+.w:hover{
+	color:#03F;
+	cursor:pointer;
+	}
+#lx{
+	background-color:#000;
+	color:#FFF;
+	font-size:14px;
+	text-align:right;
+	margin:0;
+	outline:0;
+	height:20px;
+}
+#lx a{
+	color:#FFF;
+	text-decoration:none;}
+#lx a:hover{
+	color:#999;
+	text-decoration:underline;
+	}
+#main img{
+	margin:10px;
+	border:1px solid #63F;}
+</style>
+<script>
+function show(){
+	var msg="欢迎光临我的主页，希望大家多多宣传，谢谢！"
+    window.status=msg
+}
+function disdate(){
+	var now=new Date();
+	var year=now.getFullYear();
+	var month=now.getMonth()+1;
+	var date=now.getDate();
+	var hour=now.getHours();
+	var minute=now.getMinutes();
+	var day=now.getDay();
+	var strday="";
+	switch(day){
+		case 1:
+		   strday="星期一";break;		
+		case 2:
+		   strday="星期二";break;	
+		 case 3:
+		   strday="星期三";break;	
+		 case 4:
+		   strday="星期四";break;	
+		 case 5:
+		   strday="星期五";break;	
+		 case 6:
+		   strday="星期六";break;	
+		 case 0:
+		   strday="星期天";break;	
+		}
+  var nowstr=year+"年"+month+"月"+date+"日"+hour+"时"+minute+"分"+strday;
+  var nextstr=now.toLocaleDateString();
+  document.getElementById("time").innerHTML="欢迎访问我的主页，现在时间是："+nowstr;
+	}
+    </script>
+</head>
+
+<body onload="disdate()">
+<div id="container">
+
+<div id="header">
+<span style="color:#006"><span class="w">W</span>elcome</span> to my <span style="color:#C03">home</span><span style="color:#60C">page......<div id="time"></div></span></div>
+<div id="leftbar">
+<!--<ul>-->
+     <!--<li><a href="index.html">个人主页</a></li>-->
+     <!--<li><a href="#">生活点滴</a></li>-->
+     <!--<li><a href="#">兴趣爱好</a></li>-->
+     <!--<li><a href="#">图片欣赏</a></li>-->
+     <!--<li><a href="#">作品欣赏</a></li>-->
+     <!--<li><a href="#">给我留言</a></li>-->
+     <!--<br />-->
+<!--</ul>-->
+  </div>
+  <div id="main">
+  <h1 style="color:#300">Some pictures</h1>
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#main img").hover(function() {
+        $(this).siblings().stop().fadeTo(300, 0.2);
+    }, function() {
+        $(this).siblings().stop().fadeTo(300, 1);
+    });
+});
+</script>
+<img src="img/jietu01.PNG" width="200" height="200" />
+<img src="img/jietu02.PNG" width="200" height="200" />
+<img src="img/jietu03.PNG" width="200" height="200" />
+<img src="img/jietu04.PNG" width="200" height="200" />
+<img src="img/jietu05.PNG" width="200" height="200" />
+<img src="img/jietu06.PNG" width="200" height="200" />
+<img src="img/jietu07.PNG" width="200" height="200" />
+<img src="img/jietu08.PNG" width="200" height="200" />
+</div>
+  <div id="footer">
+ <p>欢迎大家访问......</p>
+ <p>联系方式:<a href="#">17861404961</a></p>
+ <p>联系邮箱:<a href="#">1395900558@qq.com</a></p>
+  </div>
+</div>
+
+  
+</body>
+</html>

@@ -1,0 +1,21 @@
+#right {
+    animation: show_right 1s;
+    animation-fill-mode: forwards;
+}
+
+#content {
+    animation: show_content 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes show_right {
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes show_content {
+    to {
+        opacity: 1;
+    }
+}

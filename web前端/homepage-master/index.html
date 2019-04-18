@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>index</title>
+<link href="css/style-all.css" rel="stylesheet" />
+<link rel="Shortcut Icon" href="tupian/favicon.ico"> 
+<script>
+function show(){
+	var msg="欢迎光临我的主页！"
+    window.status=msg
+}
+</script>
+</head>
+
+<body onload="disdate()">
+<div id="container">
+<div id="header">
+<span style="color:#006"><span class="w">W</span>elcome</span> to my <span style="color:#C03">home</span><span style="color:#60C">page......<div id="time"></div></span></div>
+<div id="leftbar">
+<ul>
+     <li><a href="index.html"><b>个人主页</b></a></li>
+     <li><a href="huizong01.html">代码汇总1</a></li>
+     <li><a href="huizong02.html">代码汇总2</a></li>
+     <li><a href="huizong03.html">代码汇总3</a></li>
+     <li><a href="huizong04.html">代码汇总4</a></li>
+     <li><a href="tp.html">代码截图欣赏</a></li>
+     <li><a href="#">作品欣赏</a></li>
+     <li><a href="#">给我留言</a></li>
+     <br />
+
+
+</ul>
+  </div>
+  <div id="main">
+  <h1 style="color:#300">Introduce myself......</h1>
+  <!--<div id="run"></div>-->
+  <script type="text/javascript">
+function disdate(){
+	var now=new Date();
+	var year=now.getFullYear();
+	var month=now.getMonth()+1;
+	var date=now.getDate();
+	var hour=now.getHours();
+	var minute=now.getMinutes();
+	var day=now.getDay();
+	var strday="";
+	switch(day){
+		case 1:
+		   strday="星期一";break;		
+		case 2:
+		   strday="星期二";break;	
+		 case 3:
+		   strday="星期三";break;	
+		 case 4:
+		   strday="星期四";break;	
+		 case 5:
+		   strday="星期五";break;	
+		 case 6:
+		   strday="星期六";break;	
+		 case 0:
+		   strday="星期天";break;	
+		}
+  var nowstr=year+"年"+month+"月"+date+"日"+hour+"时"+minute+"分"+strday;
+  var nextstr=now.toLocaleDateString();
+  document.getElementById("time").innerHTML="欢迎访问我的主页，现在时间是："+nowstr;
+	}
+</script>
+    <table width="720" height="720" cellspacing="0">
+  <tr>
+    <td><img src="img/head.jpg" width="180" height="180" alt="bbs" /></td>
+    <td bgcolor="#bdb76b"><a href="#">刘爱超</a></td>
+    <td bgcolor="#ff8c00"><a href="#">齐鲁工业大学</a></td>
+    <td bgcolor="#6633CC"><a href="#">物联网工程17-1 201703040038 </a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#999999"><a href="#">I like program</a></td>
+    <td bgcolor="#00FFFF"><a href="#">Basketball，run</a></td>
+    <td><img src="img/003.jpg" width="180" height="180" alt="basketball" /></td>
+    <td><img src="img/timg.jpg" width="180" height="149" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#9999CC"><a href="#">Html</a></td>
+    <td bgcolor="#333300"><a href="#">Css</a></td>
+    <td bgcolor="#66FF00"><a href="#">Javascript</a></td>
+    <td bgcolor="#000033"><a href="#">Jquery</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#996633"><a href="#">Python</a></td>
+    <td bgcolor="#669900"><a href="#">Python爬虫</a></td>
+    <td bgcolor="#FF3399"><a href="#">人工智能</a></td>
+    <td bgcolor="#336699"><a href="#">Visual Basic</a></td>
+  </tr>
+  </table>
+  </div>
+  <div id="footer">
+ <p>欢迎大家访问......</p>
+ <p>联系方式:<a href="#">17861404961</a></p>
+ <p>联系邮箱:<a href="#">1395900558@qq.com</a></p>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+#header {
+    font-size: 40px;
+    text-align: center;
+    line-height: 10vh;
+    text-shadow: 3px 3px 9px black;
+}
+
+#left {
+    font-size: 30px;
+    text-align: center;
+}
+
+#middle {
+    font-size: 30px;
+    text-align: center;
+}
+
+#right {
+    font-size: 30px;
+    text-align: center;
+}
+
+#footer {
+    font-size: 15px;
+    text-align: center;
+    padding: 4vh;
+    text-shadow: 3px 3px 9px black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,11 @@
+#left {
+    animation: hide_left 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hide_left {
+    to {
+        width: 0%;
+        opacity: 0;
+    }
+}
