@@ -28,7 +28,10 @@ def get_text():
     while True:
         try:
             url = r.lpop('wenzi')
+            if url == None:
+                break
             # url = url.decode('acsii')
+
             try:
                 req = requests.get(url, headers=headers, timeout=20)
                 html = req.text
@@ -52,7 +55,7 @@ def get_text():
 if __name__=='__main__':
     this_machine = 'master'
     if this_machine=='master':
-        # push_redis_list()
+        push_redis_list()
         get_text()
     else:
         get_text()

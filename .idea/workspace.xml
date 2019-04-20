@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f22c32-bb6b-4301-9a2d-bf0233a721e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/爬虫/test/url.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/分布式爬虫/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/test/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/等式画图/表面图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web前端/homepage-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web前端/homepage-master/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/test/text03.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/test/text03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +25,7 @@
     <SUITE FILE_PATH="coverage/python$boke.coverage" NAME="boke Coverage Results" MODIFIED="1553154268618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/博客园" />
     <SUITE FILE_PATH="coverage/pythonproject$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1555418250248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
     <SUITE FILE_PATH="coverage/pythonproject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1555503744090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy_qilu/scrapy_qilu/spiders" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="表面图 Coverage Results" MODIFIED="1555739072476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/等式画图" />
     <SUITE FILE_PATH="coverage/pythonproject$mztu.coverage" NAME="mztu Coverage Results" MODIFIED="1555066157355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/妹子图" />
     <SUITE FILE_PATH="coverage/python$tk_download.coverage" NAME="tk_download Coverage Results" MODIFIED="1554031389996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
     <SUITE FILE_PATH="coverage/python$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1554383278500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
@@ -38,8 +36,9 @@
     <SUITE FILE_PATH="coverage/python$mysql_py.coverage" NAME="mysql_py Coverage Results" MODIFIED="1553389144414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mysql" />
     <SUITE FILE_PATH="coverage/python$huawei.coverage" NAME="huawei Coverage Results" MODIFIED="1552379386259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/cookie-华为" />
     <SUITE FILE_PATH="coverage/pythonproject$qidian.coverage" NAME="qidian Coverage Results" MODIFIED="1555410441526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/spiders" />
-    <SUITE FILE_PATH="coverage/pythonproject$feibu.coverage" NAME="feibu Coverage Results" MODIFIED="1555656869037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/分布式爬虫" />
+    <SUITE FILE_PATH="coverage/pythonproject$feibu.coverage" NAME="feibu Coverage Results" MODIFIED="1555669397184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/分布式爬虫" />
     <SUITE FILE_PATH="coverage/python$bilibili__1_.coverage" NAME="bilibili (1) Coverage Results" MODIFIED="1554382388770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/bilibili-you-get" />
+    <SUITE FILE_PATH="coverage/pythonproject$01.coverage" NAME="01 Coverage Results" MODIFIED="1555730498830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1554892480938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_meiju/Scrapy_meiju" />
     <SUITE FILE_PATH="coverage/python$meiju.coverage" NAME="meiju Coverage Results" MODIFIED="1554800105486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_meiju/Scrapy_meiju/spiders" />
     <SUITE FILE_PATH="coverage/python$yello_url.coverage" NAME="yello_url Coverage Results" MODIFIED="1553757891109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
@@ -100,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/爬虫/test/text03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
+            <state relative-caret-position="572">
               <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="57" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -109,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="15" column="21" selection-end-line="58" />
+            <state relative-caret-position="1232">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding>
                 <element signature="e#23#38#0" expanded="true" />
               </folding>
@@ -121,11 +120,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数据分析/等式画图/表面图.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#23#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/test/url.txt">
+        <entry file="file://$PROJECT_DIR$/数据分析/test/01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="999" column="50" selection-start-line="999" selection-start-column="50" selection-end-line="999" selection-end-column="50" />
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -184,8 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici/my_pipelines/pipelines.py" />
-        <option value="$PROJECT_DIR$/爬虫/mysql/mysql_ali.py" />
         <option value="$PROJECT_DIR$/爬虫/text/text04.py" />
         <option value="$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici/spiders/xici.py" />
         <option value="$PROJECT_DIR$/爬虫/妹子图/mztu.py" />
@@ -235,6 +244,8 @@
         <option value="$PROJECT_DIR$/爬虫/test/url.txt" />
         <option value="$PROJECT_DIR$/爬虫/test/text03.py" />
         <option value="$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py" />
+        <option value="$PROJECT_DIR$/数据分析/test/01.py" />
+        <option value="$PROJECT_DIR$/数据分析/等式画图/表面图.py" />
       </list>
     </option>
   </component>
@@ -251,7 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,24 +272,13 @@
             <path>
               <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="分布式爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="妹子图" type="462c0819:PsiDirectoryNode" />
+              <item name="Tkinter--飞机大战" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,7 +312,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.feibu">
+  <component name="RunManager" selected="Python.表面图">
+    <configuration name="表面图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python程序" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/等式画图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/等式画图/表面图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python程序" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/test/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="飞机大战" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python程序" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter--飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter--飞机大战/飞机大战.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="User-AgentDemo" type="PythonConfigurationType" factoryName="Python">
       <module name="python程序" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,72 +423,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python程序" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/scrapy_qilu/scrapy_qilu/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/scrapy_qilu/scrapy_qilu/spiders/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python程序" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/scrapy_dgyg/scrapy_dgyg" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/scrapy_dgyg/scrapy_dgyg/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python程序" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/test/text02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="text03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python程序" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -448,11 +447,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.表面图" />
+        <item itemvalue="Python.飞机大战" />
+        <item itemvalue="Python.01" />
         <item itemvalue="Python.feibu" />
         <item itemvalue="Python.text03" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.text02" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -528,12 +527,13 @@
       <workItem from="1555503338806" duration="1626000" />
       <workItem from="1555566615600" duration="4207000" />
       <workItem from="1555578923262" duration="3078000" />
-      <workItem from="1555642047875" duration="5887000" />
+      <workItem from="1555642047875" duration="9837000" />
+      <workItem from="1555728433678" duration="7082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="342150000" />
+    <option name="totallyTimeSpent" value="353182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,12 +548,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49353448" visible="true" weight="0.18229954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49353448" visible="true" weight="0.18532526" />
       <window_info id="Structure" order="1" sideWeight="0.5048309" side_tool="true" weight="0.16490166" />
       <window_info id="Favorites" order="2" sideWeight="0.5064655" side_tool="true" weight="0.21255673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.494705" visible="true" weight="0.3672131" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.494705" visible="true" weight="0.09836066" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37213114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,7 +567,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.47806355" />
       <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
     </layout>
     <layout-to-restore>
@@ -598,84 +598,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/spiders/qidian.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="157">
-          <caret line="1197" column="24" lean-forward="true" selection-start-line="1197" selection-start-column="24" selection-end-line="1197" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/mymiddlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#23#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/spiders/qidian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="e#193#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/examples-of-web-crawlers-master/4.每天不同时间段通过微信发消息提醒女友/say_to_lady.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5655">
-          <caret line="259" column="24" selection-start-line="259" selection-start-column="24" selection-end-line="260" selection-end-column="23" />
-          <folding>
-            <element signature="e#23#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/examples-of-web-crawlers-master/4.每天不同时间段通过微信发消息提醒女友/example1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -951,16 +873,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/test/url.txt">
+    <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/ “创青春”归来话“青春”分享会暨“挑战杯”主题宣讲会举行.txt" />
+    <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/ 材料学院为陈丽娜同学组织爱心捐款.txt" />
+    <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/吕在利教授应邀参加山东社科论坛并作主题报告.txt" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="999" column="50" selection-start-line="999" selection-start-column="50" selection-end-line="999" selection-end-column="50" />
+        <state relative-caret-position="-2455">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/tight_layout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1150659702/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="9816" column="8" selection-start-line="9816" selection-start-column="8" selection-end-line="9816" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/test/text03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="572">
           <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="57" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -968,21 +907,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/ “创青春”归来话“青春”分享会暨“挑战杯”主题宣讲会举行.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/ 材料学院为陈丽娜同学组织爱心捐款.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/吕在利教授应邀参加山东社科论坛并作主题报告.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" column="21" selection-end-line="58" />
+        <state relative-caret-position="1232">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
           <folding>
             <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/test/url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21978">
+          <caret line="999" column="50" selection-start-line="999" selection-start-column="50" selection-end-line="999" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="4121" lean-forward="true" selection-start-line="4113" selection-start-column="4" selection-end-line="4121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/test/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/beijing.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter--飞机大战/飞机大战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/瓜子二手车/guazi.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/瓜子二手车/guazi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="65" column="43" lean-forward="true" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/等式画图/表面图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#23#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
