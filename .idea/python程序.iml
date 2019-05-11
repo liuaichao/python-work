@@ -2,6 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/MySQL_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MySQL_project/py_GUI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MySQL_project/数据抓取" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/爬虫" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (python程序) (2)" jdkType="Python SDK" />
