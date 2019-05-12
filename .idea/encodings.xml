@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/数据分析/gensim/0.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数据分析/gensim/z-1.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/爬虫/test/test.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/爬虫/yello_net/yello_url.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/爬虫/分布式爬虫/ “创青春”归来话“青春”分享会暨“挑战杯”主题宣讲会举行.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/爬虫/数据存储-csv/test.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/爬虫/瓜子二手车/guazi.csv" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

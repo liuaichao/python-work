@@ -1,35 +1,4 @@
 # -*- coding:utf-8 -*-
-from sqlalchemy import create_engine,Column,String,Integer
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy.ext.declarative import declarative_base
-import pymysql
-engine = create_engine('mysql+pymysql://root:lac981215lac@localhost/test?charset=utf8mb4',echo=False,pool_size=5)
-
-DBSession = sessionmaker(bind=engine)
-session = DBSession()
-Base = declarative_base()
-def init_db():
-    Base.metadata.create_all(engine)
-class NLPAnalysis(Base):
-    __tablename__ = 'npl_analysis_1'
-    Id = Column(Integer,primary_key=True)
-    question_title = Column(String(200),default=None,doc='问题标题')
-    question_answer = Column(String(500),default=None,doc='问题答案')
-    fen_ci_result = Column(String(1000),default=None,doc='分词结果')
-init_db()
-def insert_data(dict_data, table_name):
-    if table_name=='npl_analysis_1' and dict_data:
-        data = NLPAnalysis(question_title=dict_data['question_title'],
-                           question_answer=dict_data['question_answer'],
-                           fen_ci_result=dict_data['fen_ci_result'])
-    session.add(data)
-    session.commit()
-    session.close()
-insert_data({'question_title':'刘爱超','question_answer':'男','fen_ci_result':'齐鲁工业大学'},'npl_analysis_1')
-
-
-
-
-
-
+a = '大肠杆菌仅仅是大肠内四百多种常见的细菌中的一种，位居排行榜前列的还有一些酵母和原生动物。 等一等！不要担心。这看起来好像是一群爬来爬去的脏东西，但大肠内的大多数细菌并不是烦人的入侵者。它们是我们请来的重要客人：是属于你自己的细菌。它们不仅能够帮助你消化和处理食物，还能给你提供基本的维生素。它们的作用还表现在帮助你抵抗那些有害细菌。它们做这些工作仅仅是为了换取食物、温暖的环境和繁殖的场所（这种使双方都能受益的关系叫做共生关系）。只要这种安排运行正常的话，你基本上意识不到身体内部的细菌和它们的活动。但如果它们的功能发挥不正常，那就是另外一回事了。 继续前行 身体大肠内的细菌靠分解小肠内部的废弃物生活。这些东西由于不可消化，人体系统拒绝处理它们。这些细菌自己装备有一系列的酶和新陈代谢的通道。这样，它们能够继续把遗留的有机化合物进行分解。它们中的大多数的工作都是分解植物中的碳水化合物。大肠内部大部分的细菌是厌氧性的细菌，意思就是它们在没有氧气的状态下生活。它们不是呼出和呼入氧气，而是通过把大分子的碳水化合物分解成为小的脂肪酸分子和二氧化碳来获得能量。这一过程称为“发酵”。 一些脂肪酸通过大肠的肠壁被重新吸收，这会给我们提供额外的能源。剩余的脂肪酸帮助细菌迅速生长。其速度之快可以使它们在每20分钟内繁殖一次。因为它们合成的一些维生素B和维生素K比它们需要的多，所以它们非常慷慨地把多余的维生素供应给它们这个群体中其他的生物，也提供给你——它们的宿主。尽管你不能自己生产这些维生素，但你可以依靠这些对你非常友好的细菌来源源不断供应给你。 科学家们刚刚开始明白这一集体中不同的细菌之间的复杂关系，以及它们同人这个宿主之间的相互作用。这是一个动态的系统，随着宿主在饮食结构和年龄上的变化，这一系统也做出相应的调整。你一出生就开始在体内汇集你所选择的细菌的种类。当你的饮食结构从母乳变为牛奶，又变成不同的固体食物时，你的体内又会有新的细菌来占据主导地位了。 旅程的结束 积聚在大肠壁上的细菌是经历过艰难旅程后的幸存者。从口腔开始经过小肠，他们受到消化酶和强酸的袭击。那些在完成旅行后而安然无恙的细菌在到达时会遇到更多的障碍。要想生长，它们必须同已经住在那里的细菌争夺空间和营养。幸运的是，这些“友好的”细菌能够非常熟练地把自己粘贴到大肠壁上任何可利用的地方。这些友好的细菌中的一些可以产生酸和被称为“细菌素”的抗菌化合物。这些细菌素可以帮助抵御那些令人讨厌的细菌的侵袭。 那些友好的细菌能够控制更危险的细菌的数量，增加人们对“前生命期”食物的兴趣。这种食物含有培养菌，酸奶就是其中的一种。在你喝下一瓶酸奶的时候，检查一下标签，看一看哪种细菌将会成为你体内的下一批客人。 记住，尽管饭前洗手仍然是很好的习惯，并不是所有的细菌都是“病菌”。我们应当认可那些支持和保护我们的细菌。'
+print(len(a))
 
