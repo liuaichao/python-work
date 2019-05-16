@@ -74,6 +74,7 @@ print(dictionary.token2id)
 corpus = [dictionary.doc2bow(text) for text in result_1]
 #每个小文集转化为一个向量，向量是一个元组列表，每个元组的第一个位置是id位置，第二个位置是该id对应的单词在整个小文集中出现的次数。id位置可以通过
 #dictionary.token2id的返回结果来确定
-print(corpus)
-print(len(dictionary.token2id))
-print(result_1[0])
+print(result_1)
+# print(corpus)
+# print(len(dictionary.token2id))
+# print(result_1[0])

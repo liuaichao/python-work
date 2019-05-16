@@ -49,17 +49,22 @@ class Book_det():
             'Host': 'www.bookschina.com',
             'User-Agent': "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
         }
-        req = requests.get(book_name[0][4],headers=self.headers)
+        req = requests.get(book_name[0][4],headers=self.headers,timeout=3)
         html = etree.HTML(req.text)
-        self.photo_url = html.xpath('//a[@class="img"]/img/@src')[0]
-        self.headers = {
-            'User-Agent': "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
-        }
+        try:
 
-        with open('D:\\pythonproject\\MySQL_project\\book_photo\\'+book_name[0][0]+'.png','wb') as f:
-            res = requests.get(self.photo_url,headers=self.headers)
-            f.write(res.content)
-        img = Image.open("D:\\pythonproject\\MySQL_project\\book_photo\\"+book_name[0][0]+'.png')  # 打开图片
+            self.photo_url = html.xpath('//a[@class="img"]/img/@src')[0]
+
+            self.headers = {
+                'User-Agent': "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
+            }
+
+            with open('D:\\pythonproject\\MySQL_project\\book_photo\\'+book_name[0][0]+'.png','wb') as f:
+                res = requests.get(self.photo_url,headers=self.headers,timeout=6)
+                f.write(res.content)
+            img = Image.open("D:\\pythonproject\\MySQL_project\\book_photo\\"+book_name[0][0]+'.png')  # 打开图片
+        except:
+            img = Image.open('D:\\pythonproject\\MySQL_project\\book_photo\\feng300.png')
         self.book_photo = ImageTk.PhotoImage(img)
         self.lable4 = tkinter.Label(self.base,image = self.book_photo)
         self.lable4.place(x=10, y=30, width=212,height=300)

@@ -23,6 +23,9 @@ raw_documents = [
 texts = [[word for word in jieba.cut(document, cut_all=True)] for document in raw_documents]
 print(texts)
 dictionary = corpora.Dictionary(texts)
+print(list(dictionary))
 print(dictionary.token2id)
+print(dictionary.dfs)
 
 corpus = [dictionary.doc2bow(text) for text in texts]
+print(corpus)

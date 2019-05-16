@@ -73,7 +73,7 @@ class MN():
 
     # 事件绑定
     def print_item(self,event):
-        try:
+        # try:
             self.book_name = (self.lb.get(self.lb.curselection())).split('       ')[0]
             #根据book_name查找
             self.my_s = Mysql_demo()
@@ -81,8 +81,9 @@ class MN():
             self.book_data = self.my_s.search(self.sql_s)
             self.bde = Book_det(self.id, self.name,self.book_name,self.book_data[0][5])
             self.bde.start(self.book_data)
-        except:
-            submit_warn = tkinter.messagebox.showinfo('警告', '请先登录！')
+
+        # except:
+        #     submit_warn = tkinter.messagebox.showinfo('警告', '请先登录！')
     #类型点击响应方法
     def type_item(self,event):
         self.type_name = self.lbs.get(self.lbs.curselection())
@@ -202,7 +203,7 @@ class MN():
                 self.Button_register.destroy()
                 self.lable = tkinter.Label(self.base, text='欢迎，{0}'.format(self.name[0][0]), font=("微软雅黑", 18))
                 self.lable_title = tkinter.Label(self.base,text='Welcome Book World',font=("微软雅黑", 18),fg='orange')
-                self.Button_per = tkinter.Button(self.base, text="个人中心", font=("隶书", 18), bg='cyan',command=self.person)
+                self.Button_per = tkinter.Button(self.base, text="退出登录", font=("隶书", 18), bg='cyan',command=self.person)
                 self.Button_per.place(x=550,y=0)
                 self.Button_huan = tkinter.Button(self.base, text="还书系统", font=("隶书", 18), bg='lawngreen',command=self.return_boo)
                 self.Button_huan.place(x=680, y=0)
@@ -214,7 +215,22 @@ class MN():
                 self.hnt = tkinter.messagebox.showerror('错误', '账号或密码出错了')
     #个人中心
     def person(self):
-        pass
+        self.lable.destroy()
+        self.Button_per.destroy()
+        self.Button_huan.destroy()
+        self.lable_title.destroy()
+        self.lable = tkinter.Label(self.base, text='   请登录：         ', font=("微软雅黑", 18))
+        self.lable.place(x=0, y=0, width=150, height=50)
+        # 登录按钮
+        self.Button_submit = tkinter.Button(self.base, text="登录", font=("隶书", 18), bg='blue', command=self.t_submit)
+        self.Button_submit.place(x=200, y=10, width=50, height=30)
+        # 注册按钮
+        self.Button_register = tkinter.Button(self.base, text="注册", font=("隶书", 18), command=self.register)
+        self.Button_register.place(x=300, y=10, width=50, height=30)
+        self.fengexian1 = tkinter.Label(self.base, text='——————————————————————————————————————————————————',
+                                        font=("微软雅黑", 18))
+        self.fengexian1.place(x=0, y=40, width=1000, height=10)
+
     #还书系统
     def return_boo(self):
         self.re_book = Return_book(self.id)
