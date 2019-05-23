@@ -1,11 +1,10 @@
 # -*- coding:utf-8 -*-
 from gensim import corpora, models, similarities
 import jieba
-a = [1,2,4]
-b = [4,5,6]
-print(a+b)
-
-
+a = 'qwe\n'
+print(a)
+print(a.replace('\n',''))
+print('qwe')
 
 
 

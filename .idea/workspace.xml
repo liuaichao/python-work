@@ -2,38 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f22c32-bb6b-4301-9a2d-bf0233a721e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MySQL_project/book_photo/feng300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL_project/book_photo/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/gensim/g_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析/gensim/g_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/yello_net/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/拉勾网/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/拉勾网/lagou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/Gensim/TextRank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/Gensim/book_title.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/Gensim/corpus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/Gensim/model_lsi.lsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/Gensim/stopword.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练/word_2vec_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/test/求职.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/句法分析/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python程序.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python程序.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/Linux初步.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/Python数据分析从入门到精通.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/单身恋习题.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/小王子.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/巧学活用Windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/批评家的左手和右手.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/操作系统教程.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/现代中国与少数民族文学.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/避孕-性自由和孕自主的千年挣扎.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/book_photo/霍乱时期的爱情.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQL_project/data_a/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/data_a/test.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQL_project/data_a/test1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/data_a/test1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/data_a/test2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/data_a/test2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySQL_project/py_GUI/book_det.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/py_GUI/book_det.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySQL_project/py_GUI/t_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/py_GUI/t_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/gensim/g_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/gensim/g_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/gensim/g_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_ty.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_ty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/book_title.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/NLP_DATA/book_title.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/g_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/g_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/g_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/g_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/g_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/g_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/model.tfidf" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/model.tfidf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/model_lsi.lsi" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL_project/NLP_DATA/model_lsi.lsi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/user_dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/user_dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/z-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/z-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/gensim/相似度.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/Gensim/相似度.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据分析/test/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/test/01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据分析/test/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/test/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/test/user_dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/gensim/user_dict.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/自然语言处理/T_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/自然语言处理/T_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/自然语言处理/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/自然语言处理/data.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,99 +40,105 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$yello_photo.coverage" NAME="yello_photo Coverage Results" MODIFIED="1553752512658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
-    <SUITE FILE_PATH="coverage/python$wyy_singer.coverage" NAME="wyy_singer Coverage Results" MODIFIED="1553504784744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
     <SUITE FILE_PATH="coverage/python$mysql_ali.coverage" NAME="mysql_ali Coverage Results" MODIFIED="1554967923991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mysql" />
     <SUITE FILE_PATH="coverage/pythonproject$text04.coverage" NAME="text04 Coverage Results" MODIFIED="1555844892235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
-    <SUITE FILE_PATH="coverage/python$yello_note.coverage" NAME="yello_note Coverage Results" MODIFIED="1553759191628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
     <SUITE FILE_PATH="coverage/python$baidupo.coverage" NAME="baidupo Coverage Results" MODIFIED="1553150003048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/百度图片" />
-    <SUITE FILE_PATH="coverage/pythonproject$A.coverage" NAME="A Coverage Results" MODIFIED="1556280314183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/pythonproject$g_03.coverage" NAME="g_03 Coverage Results" MODIFIED="1557835905086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
-    <SUITE FILE_PATH="coverage/python$mongo.coverage" NAME="mongo Coverage Results" MODIFIED="1553408334391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mongoDB" />
-    <SUITE FILE_PATH="coverage/pythonproject$User_AgentDemo.coverage" NAME="User-AgentDemo Coverage Results" MODIFIED="1555408362134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/pythonproject$g_03.coverage" NAME="g_03 Coverage Results" MODIFIED="1558177864095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
     <SUITE FILE_PATH="coverage/pythonproject$guazi.coverage" NAME="guazi Coverage Results" MODIFIED="1555148434973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/瓜子二手车" />
-    <SUITE FILE_PATH="coverage/pythonproject$clean.coverage" NAME="clean Coverage Results" MODIFIED="1557209710829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数据清洗" />
-    <SUITE FILE_PATH="coverage/pythonproject$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1557986728537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/拉勾网" />
-    <SUITE FILE_PATH="coverage/python$boke.coverage" NAME="boke Coverage Results" MODIFIED="1553154268618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/博客园" />
-    <SUITE FILE_PATH="coverage/pythonproject$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1555418250248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
-    <SUITE FILE_PATH="coverage/pythonproject$01__1_.coverage" NAME="01 (1) Coverage Results" MODIFIED="1557912644316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
-    <SUITE FILE_PATH="coverage/pythonproject$test.coverage" NAME="test Coverage Results" MODIFIED="1556195870936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/数据抓取" />
+    <SUITE FILE_PATH="coverage/pythonproject$test.coverage" NAME="test Coverage Results" MODIFIED="1558232196938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/句法分析" />
     <SUITE FILE_PATH="coverage/pythonproject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1555503744090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy_qilu/scrapy_qilu/spiders" />
-    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="布尔矩阵 Coverage Results" MODIFIED="1555817482799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数组快速挑选" />
     <SUITE FILE_PATH="coverage/pythonproject$mztu.coverage" NAME="mztu Coverage Results" MODIFIED="1555066157355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/妹子图" />
     <SUITE FILE_PATH="coverage/pythonproject$py_tomysql.coverage" NAME="py_tomysql Coverage Results" MODIFIED="1556182813641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/数据抓取" />
-    <SUITE FILE_PATH="coverage/python$tk_download.coverage" NAME="tk_download Coverage Results" MODIFIED="1554031389996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
-    <SUITE FILE_PATH="coverage/python$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1554383278500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
+    <SUITE FILE_PATH="coverage/pythonproject$TextRank.coverage" NAME="TextRank Coverage Results" MODIFIED="1558162133615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
     <SUITE FILE_PATH="coverage/pythonproject$g_04.coverage" NAME="g_04 Coverage Results" MODIFIED="1557840432936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
     <SUITE FILE_PATH="coverage/python$pyu.coverage" NAME="pyu Coverage Results" MODIFIED="1553518507552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
+    <SUITE FILE_PATH="coverage/pythonproject$word_2vec_main.coverage" NAME="word_2vec_main Coverage Results" MODIFIED="1558312503726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim/word2vec向量化训练" />
     <SUITE FILE_PATH="coverage/pythonproject$taobao_login.coverage" NAME="taobao_login Coverage Results" MODIFIED="1555421258972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/examples-of-web-crawlers-master/1.淘宝模拟登录" />
-    <SUITE FILE_PATH="coverage/python$chrome.coverage" NAME="chrome Coverage Results" MODIFIED="1553244959772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/chrome-driver" />
-    <SUITE FILE_PATH="coverage/python$piaofang.coverage" NAME="piaofang Coverage Results" MODIFIED="1553845421902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/中国票房" />
-    <SUITE FILE_PATH="coverage/python$mysql_py.coverage" NAME="mysql_py Coverage Results" MODIFIED="1553389144414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mysql" />
+    <SUITE FILE_PATH="coverage/pythonproject$urls.coverage" NAME="urls Coverage Results" MODIFIED="1558344738845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Django/django_test/django_test" />
     <SUITE FILE_PATH="coverage/pythonproject$t_register.coverage" NAME="t_register Coverage Results" MODIFIED="1556094290932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/python$huawei.coverage" NAME="huawei Coverage Results" MODIFIED="1552379386259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/cookie-华为" />
     <SUITE FILE_PATH="coverage/pythonproject$qidian.coverage" NAME="qidian Coverage Results" MODIFIED="1555410441526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy_qidian/scrapy_qidian/spiders" />
     <SUITE FILE_PATH="coverage/pythonproject$feibu.coverage" NAME="feibu Coverage Results" MODIFIED="1555669397184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/分布式爬虫" />
     <SUITE FILE_PATH="coverage/python$bilibili__1_.coverage" NAME="bilibili (1) Coverage Results" MODIFIED="1554382388770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/bilibili-you-get" />
     <SUITE FILE_PATH="coverage/pythonproject$t_root_ty.coverage" NAME="t_root_ty Coverage Results" MODIFIED="1556279411544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/pythonproject$01.coverage" NAME="01 Coverage Results" MODIFIED="1557896042068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
+    <SUITE FILE_PATH="coverage/pythonproject$01.coverage" NAME="01 Coverage Results" MODIFIED="1558617405761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1554892480938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_meiju/Scrapy_meiju" />
-    <SUITE FILE_PATH="coverage/pythonproject$now.coverage" NAME="now Coverage Results" MODIFIED="1557560075169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/直播弹幕" />
     <SUITE FILE_PATH="coverage/pythonproject$t_root_insert.coverage" NAME="t_root_insert Coverage Results" MODIFIED="1556248667008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
     <SUITE FILE_PATH="coverage/python$meiju.coverage" NAME="meiju Coverage Results" MODIFIED="1554800105486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_meiju/Scrapy_meiju/spiders" />
     <SUITE FILE_PATH="coverage/python$yello_url.coverage" NAME="yello_url Coverage Results" MODIFIED="1553757891109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
-    <SUITE FILE_PATH="coverage/python$text02.coverage" NAME="text02 Coverage Results" MODIFIED="1554431687115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
-    <SUITE FILE_PATH="coverage/python$xima.coverage" NAME="xima Coverage Results" MODIFIED="1553999063571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/喜马拉雅" />
-    <SUITE FILE_PATH="coverage/pythonproject$t_return.coverage" NAME="t_return Coverage Results" MODIFIED="1556194800165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1554189706637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mysql" />
     <SUITE FILE_PATH="coverage/pythonproject$book_det.coverage" NAME="book_det Coverage Results" MODIFIED="1556282121894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
     <SUITE FILE_PATH="coverage/python$bdphoto.coverage" NAME="bdphoto Coverage Results" MODIFIED="1553479355431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/异步请求-百度图片" />
-    <SUITE FILE_PATH="coverage/pythonproject$UserAgentDemo.coverage" NAME="UserAgentDemo Coverage Results" MODIFIED="1555408533404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
-    <SUITE FILE_PATH="coverage/python$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1553331148795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/数据存储-csv" />
-    <SUITE FILE_PATH="coverage/python$text03.coverage" NAME="text03 Coverage Results" MODIFIED="1554796553554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
-    <SUITE FILE_PATH="coverage/pythonproject$book_list.coverage" NAME="book_list Coverage Results" MODIFIED="1556261930020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/pythonproject$zheng.coverage" NAME="zheng Coverage Results" MODIFIED="1557298944882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数据正则化" />
     <SUITE FILE_PATH="coverage/python$youdao.coverage" NAME="youdao Coverage Results" MODIFIED="1552481657389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/有道词典--js加密" />
-    <SUITE FILE_PATH="coverage/python$doubantest.coverage" NAME="doubantest Coverage Results" MODIFIED="1553261966145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/豆瓣读书" />
-    <SUITE FILE_PATH="coverage/pythonproject$T_project.coverage" NAME="T_project Coverage Results" MODIFIED="1557668379711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/自然语言处理" />
-    <SUITE FILE_PATH="coverage/python$douban.coverage" NAME="douban Coverage Results" MODIFIED="1553309118193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/豆瓣读书" />
     <SUITE FILE_PATH="coverage/pythonproject$t_bro_book.coverage" NAME="t_bro_book Coverage Results" MODIFIED="1556175769218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/python$tupian.coverage" NAME="tupian Coverage Results" MODIFIED="1553244567148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/图片验证码识别" />
-    <SUITE FILE_PATH="coverage/pythonproject$t_root_book_num.coverage" NAME="t_root_book_num Coverage Results" MODIFIED="1556280599285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
     <SUITE FILE_PATH="coverage/python$yello.coverage" NAME="yello Coverage Results" MODIFIED="1554368179922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
-    <SUITE FILE_PATH="coverage/pythonproject$t_root.coverage" NAME="t_root Coverage Results" MODIFIED="1556353487179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
     <SUITE FILE_PATH="coverage/pythonproject$t_root_dian.coverage" NAME="t_root_dian Coverage Results" MODIFIED="1556280288544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/pythonproject$02.coverage" NAME="02 Coverage Results" MODIFIED="1557986588696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
+    <SUITE FILE_PATH="coverage/pythonproject$02.coverage" NAME="02 Coverage Results" MODIFIED="1558005271841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
     <SUITE FILE_PATH="coverage/python$qq.coverage" NAME="qq Coverage Results" MODIFIED="1553256285501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/腾讯招聘" />
     <SUITE FILE_PATH="coverage/python$xiaomi.coverage" NAME="xiaomi Coverage Results" MODIFIED="1553310494461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/小米登录" />
     <SUITE FILE_PATH="coverage/python$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1553148652932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/百度贴吧" />
     <SUITE FILE_PATH="coverage/python$hupu.coverage" NAME="hupu Coverage Results" MODIFIED="1553862745645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/虎扑论坛" />
     <SUITE FILE_PATH="coverage/pythonproject$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1555145521087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/XXX.com_Spider-master" />
-    <SUITE FILE_PATH="coverage/pythonproject$t_root_bor.coverage" NAME="t_root_bor Coverage Results" MODIFIED="1556262072989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
     <SUITE FILE_PATH="coverage/python$bilibili.coverage" NAME="bilibili Coverage Results" MODIFIED="1554358254943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/bilibili" />
+    <SUITE FILE_PATH="coverage/pythonproject$g_5.coverage" NAME="g_5 Coverage Results" MODIFIED="1557988155721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
+    <SUITE FILE_PATH="coverage/python$text04.coverage" NAME="text04 Coverage Results" MODIFIED="1554973427255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
+    <SUITE FILE_PATH="coverage/pythonproject$t_main.coverage" NAME="t_main Coverage Results" MODIFIED="1558157392140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/python$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1554205655784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/百度地图" />
+    <SUITE FILE_PATH="coverage/python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1554895290023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici" />
+    <SUITE FILE_PATH="coverage/pythonproject$text02.coverage" NAME="text02 Coverage Results" MODIFIED="1555847191520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
+    <SUITE FILE_PATH="coverage/pythonproject$t_root_user.coverage" NAME="t_root_user Coverage Results" MODIFIED="1556251243988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/python$xici.coverage" NAME="xici Coverage Results" MODIFIED="1554892441229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici/spiders" />
+    <SUITE FILE_PATH="coverage/python$csv.coverage" NAME="csv Coverage Results" MODIFIED="1553331114944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/数据存储-csv" />
+    <SUITE FILE_PATH="coverage/python$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1552376835141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/使用代理" />
+    <SUITE FILE_PATH="coverage/pythonproject$g_02.coverage" NAME="g_02 Coverage Results" MODIFIED="1558065403328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
+    <SUITE FILE_PATH="coverage/pythonproject$T_pyecharts.coverage" NAME="T_pyecharts Coverage Results" MODIFIED="1557570393667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/自然语言处理" />
+    <SUITE FILE_PATH="coverage/pythonproject$uiObject.coverage" NAME="uiObject Coverage Results" MODIFIED="1555485944507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/examples-of-web-crawlers-master/6.爬取豆瓣排行榜电影数据(含GUI界面版)" />
+    <SUITE FILE_PATH="coverage/python$wyy_singer.coverage" NAME="wyy_singer Coverage Results" MODIFIED="1553504784744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
+    <SUITE FILE_PATH="coverage/python$yello_note.coverage" NAME="yello_note Coverage Results" MODIFIED="1553759191628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/yello_net" />
+    <SUITE FILE_PATH="coverage/pythonproject$word_2vec_main__1_.coverage" NAME="word_2vec_main (1) Coverage Results" MODIFIED="1558313472801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练" />
+    <SUITE FILE_PATH="coverage/pythonproject$A.coverage" NAME="A Coverage Results" MODIFIED="1556280314183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/python$mongo.coverage" NAME="mongo Coverage Results" MODIFIED="1553408334391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mongoDB" />
+    <SUITE FILE_PATH="coverage/pythonproject$User_AgentDemo.coverage" NAME="User-AgentDemo Coverage Results" MODIFIED="1555408362134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/pythonproject$clean.coverage" NAME="clean Coverage Results" MODIFIED="1557209710829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数据清洗" />
+    <SUITE FILE_PATH="coverage/pythonproject$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1557986728537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/拉勾网" />
+    <SUITE FILE_PATH="coverage/python$boke.coverage" NAME="boke Coverage Results" MODIFIED="1553154268618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/博客园" />
+    <SUITE FILE_PATH="coverage/pythonproject$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1555418250248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
+    <SUITE FILE_PATH="coverage/pythonproject$01__1_.coverage" NAME="01 (1) Coverage Results" MODIFIED="1557912644316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
+    <SUITE FILE_PATH="coverage/pythonproject$.coverage" NAME="求职 Coverage Results" MODIFIED="1557995688608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/test" />
+    <SUITE FILE_PATH="coverage/python$tk_download.coverage" NAME="tk_download Coverage Results" MODIFIED="1554031389996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
+    <SUITE FILE_PATH="coverage/pythonproject$word2vec_sim.coverage" NAME="word2vec_sim Coverage Results" MODIFIED="1558316223747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算" />
+    <SUITE FILE_PATH="coverage/python$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1554383278500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
+    <SUITE FILE_PATH="coverage/pythonproject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1558345240856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Django/django_test" />
+    <SUITE FILE_PATH="coverage/python$chrome.coverage" NAME="chrome Coverage Results" MODIFIED="1553244959772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/chrome-driver" />
+    <SUITE FILE_PATH="coverage/python$piaofang.coverage" NAME="piaofang Coverage Results" MODIFIED="1553845421902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/中国票房" />
+    <SUITE FILE_PATH="coverage/python$mysql_py.coverage" NAME="mysql_py Coverage Results" MODIFIED="1553389144414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mysql" />
+    <SUITE FILE_PATH="coverage/python$huawei.coverage" NAME="huawei Coverage Results" MODIFIED="1552379386259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/cookie-华为" />
+    <SUITE FILE_PATH="coverage/pythonproject$now.coverage" NAME="now Coverage Results" MODIFIED="1557560075169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/直播弹幕" />
+    <SUITE FILE_PATH="coverage/python$text02.coverage" NAME="text02 Coverage Results" MODIFIED="1554431687115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
+    <SUITE FILE_PATH="coverage/python$xima.coverage" NAME="xima Coverage Results" MODIFIED="1553999063571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/喜马拉雅" />
+    <SUITE FILE_PATH="coverage/pythonproject$t_return.coverage" NAME="t_return Coverage Results" MODIFIED="1556194800165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1554189706637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/mysql" />
+    <SUITE FILE_PATH="coverage/pythonproject$UserAgentDemo.coverage" NAME="UserAgentDemo Coverage Results" MODIFIED="1555408533404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1553331148795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/数据存储-csv" />
+    <SUITE FILE_PATH="coverage/python$text03.coverage" NAME="text03 Coverage Results" MODIFIED="1554796553554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
+    <SUITE FILE_PATH="coverage/pythonproject$book_list.coverage" NAME="book_list Coverage Results" MODIFIED="1556261930020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/pythonproject$zheng.coverage" NAME="zheng Coverage Results" MODIFIED="1557298944882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/数据正则化" />
+    <SUITE FILE_PATH="coverage/python$doubantest.coverage" NAME="doubantest Coverage Results" MODIFIED="1553261966145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/豆瓣读书" />
+    <SUITE FILE_PATH="coverage/pythonproject$T_project.coverage" NAME="T_project Coverage Results" MODIFIED="1557668379711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/自然语言处理" />
+    <SUITE FILE_PATH="coverage/python$douban.coverage" NAME="douban Coverage Results" MODIFIED="1553309118193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/豆瓣读书" />
+    <SUITE FILE_PATH="coverage/python$tupian.coverage" NAME="tupian Coverage Results" MODIFIED="1553244567148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/图片验证码识别" />
+    <SUITE FILE_PATH="coverage/pythonproject$t_root_book_num.coverage" NAME="t_root_book_num Coverage Results" MODIFIED="1556280599285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/pythonproject$t_root.coverage" NAME="t_root Coverage Results" MODIFIED="1556353487179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
+    <SUITE FILE_PATH="coverage/pythonproject$t_root_bor.coverage" NAME="t_root_bor Coverage Results" MODIFIED="1556262072989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
     <SUITE FILE_PATH="coverage/pythonproject$t_user.coverage" NAME="t_user Coverage Results" MODIFIED="1556104825086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/pythonproject$g_5.coverage" NAME="g_5 Coverage Results" MODIFIED="1557912828723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
     <SUITE FILE_PATH="coverage/python$tiantang.coverage" NAME="tiantang Coverage Results" MODIFIED="1553340113933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/天堂图片" />
     <SUITE FILE_PATH="coverage/pythonproject$main.coverage" NAME="main Coverage Results" MODIFIED="1555491598153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy_dgyg/scrapy_dgyg" />
     <SUITE FILE_PATH="coverage/pythonproject$g_01.coverage" NAME="g_01 Coverage Results" MODIFIED="1557737671431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
-    <SUITE FILE_PATH="coverage/python$text04.coverage" NAME="text04 Coverage Results" MODIFIED="1554973427255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/text" />
     <SUITE FILE_PATH="coverage/pythonproject$text03.coverage" NAME="text03 Coverage Results" MODIFIED="1555656265670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
     <SUITE FILE_PATH="coverage/python$image.coverage" NAME="image Coverage Results" MODIFIED="1553514455885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能/图像分割" />
-    <SUITE FILE_PATH="coverage/pythonproject$t_main.coverage" NAME="t_main Coverage Results" MODIFIED="1557752708958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/python$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1554205655784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/百度地图" />
-    <SUITE FILE_PATH="coverage/python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1554895290023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici" />
     <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1554021844774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
-    <SUITE FILE_PATH="coverage/pythonproject$text02.coverage" NAME="text02 Coverage Results" MODIFIED="1555847191520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/test" />
     <SUITE FILE_PATH="coverage/python$shipin.coverage" NAME="shipin Coverage Results" MODIFIED="1554000385021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/视频软件" />
-    <SUITE FILE_PATH="coverage/pythonproject$t_root_user.coverage" NAME="t_root_user Coverage Results" MODIFIED="1556251243988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/python$xici.coverage" NAME="xici Coverage Results" MODIFIED="1554892441229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Scrapy_xici/Scrapy_xici/spiders" />
     <SUITE FILE_PATH="coverage/pythonproject$t_submit.coverage" NAME="t_submit Coverage Results" MODIFIED="1556087021302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySQL_project/py_GUI" />
-    <SUITE FILE_PATH="coverage/python$csv.coverage" NAME="csv Coverage Results" MODIFIED="1553331114944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/数据存储-csv" />
-    <SUITE FILE_PATH="coverage/python$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1552376835141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/使用代理" />
     <SUITE FILE_PATH="coverage/python$douyu.coverage" NAME="douyu Coverage Results" MODIFIED="1553313098572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/douyu" />
-    <SUITE FILE_PATH="coverage/pythonproject$g_02.coverage" NAME="g_02 Coverage Results" MODIFIED="1557911478132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/gensim" />
-    <SUITE FILE_PATH="coverage/pythonproject$T_pyecharts.coverage" NAME="T_pyecharts Coverage Results" MODIFIED="1557570393667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析/自然语言处理" />
     <SUITE FILE_PATH="coverage/python$guazi.coverage" NAME="guazi Coverage Results" MODIFIED="1554435095227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/瓜子二手车" />
-    <SUITE FILE_PATH="coverage/pythonproject$uiObject.coverage" NAME="uiObject Coverage Results" MODIFIED="1555485944507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/examples-of-web-crawlers-master/6.爬取豆瓣排行榜电影数据(含GUI界面版)" />
     <SUITE FILE_PATH="coverage/pythonproject$tk_download.coverage" NAME="tk_download Coverage Results" MODIFIED="1556083493738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/网易云音乐" />
   </component>
   <component name="DatabaseView">
@@ -157,52 +160,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/gensim/g_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-              <folding>
-                <element signature="e#23#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫/拉勾网/lagou.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-              <folding>
-                <element signature="e#24#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/gensim/相似度.txt">
-          <provider selected="true" editor-type-id="LargeFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据分析/test/01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/test/02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding>
-                <element signature="e#23#71#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -212,8 +174,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -261,15 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web前端/期末测试所需文件/index.html" />
-        <option value="$PROJECT_DIR$/web前端/homepage-master/index.html" />
-        <option value="$PROJECT_DIR$/爬虫/test/url.txt" />
-        <option value="$PROJECT_DIR$/爬虫/test/text03.py" />
-        <option value="$PROJECT_DIR$/爬虫/分布式爬虫/feibu.py" />
-        <option value="$PROJECT_DIR$/数据分析/等式画图/表面图.py" />
-        <option value="$PROJECT_DIR$/爬虫/test/te.txt" />
-        <option value="$PROJECT_DIR$/数据分析/数组快速挑选/布尔矩阵.py" />
-        <option value="$PROJECT_DIR$/爬虫/test/text04.py" />
         <option value="$PROJECT_DIR$/爬虫/test/text02.py" />
         <option value="$PROJECT_DIR$/爬虫/Mysql_demo.py" />
         <option value="$PROJECT_DIR$/MySQL_project/数据抓取/py_tomongodb.py" />
@@ -289,7 +242,6 @@
         <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_bor.py" />
         <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_dian.py" />
         <option value="$PROJECT_DIR$/MySQL_project/py_GUI/A.py" />
-        <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_ty.py" />
         <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_root.py" />
         <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_book_num.py" />
         <option value="$PROJECT_DIR$/数据分析/数据清洗/clean.py" />
@@ -302,21 +254,32 @@
         <option value="$PROJECT_DIR$/数据分析/自然语言处理/T_project.py" />
         <option value="$PROJECT_DIR$/数据分析/gensim/g_01.py" />
         <option value="$PROJECT_DIR$/MySQL_project/py_GUI/book_det.py" />
-        <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_main.py" />
-        <option value="$PROJECT_DIR$/数据分析/gensim/g_03.py" />
         <option value="$PROJECT_DIR$/数据分析/gensim/g_04.py" />
         <option value="$PROJECT_DIR$/爬虫/yello_net/01.py" />
-        <option value="$PROJECT_DIR$/数据分析/gensim/g_02.py" />
-        <option value="$PROJECT_DIR$/数据分析/gensim/g_5.py" />
-        <option value="$PROJECT_DIR$/数据分析/test/01.py" />
         <option value="$PROJECT_DIR$/爬虫/拉勾网/1.html" />
-        <option value="$PROJECT_DIR$/数据分析/test/02.py" />
         <option value="$PROJECT_DIR$/爬虫/拉勾网/lagou.py" />
+        <option value="$PROJECT_DIR$/数据分析/test/求职.py" />
+        <option value="$PROJECT_DIR$/数据分析/gensim/test.py" />
+        <option value="$PROJECT_DIR$/数据分析/gensim/g_5.py" />
+        <option value="$PROJECT_DIR$/数据分析/test/02.py" />
+        <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_main.py" />
+        <option value="$PROJECT_DIR$/MySQL_project/py_GUI/t_root_ty.py" />
+        <option value="$PROJECT_DIR$/数据分析/gensim/g_02.py" />
+        <option value="$PROJECT_DIR$/数据分析/gensim/TextRank.py" />
+        <option value="$PROJECT_DIR$/数据分析/gensim/g_03.py" />
+        <option value="$PROJECT_DIR$/数据分析/gensim/word2vec向量化训练/word_2vec_main.py" />
+        <option value="$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练/word_2vec_main.py" />
+        <option value="$PROJECT_DIR$/数据分析/句法分析/test.py" />
+        <option value="$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算/word2vec_sim.py" />
+        <option value="$PROJECT_DIR$/Django/django_test/django_test/urls.py" />
+        <option value="$PROJECT_DIR$/Django/django_test/teachar/views.py" />
+        <option value="$PROJECT_DIR$/数据分析/test/01.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="676" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -338,11 +301,6 @@
             <path>
               <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
-              <item name="MySQL_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
               <item name="数据分析" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -350,17 +308,6 @@
               <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
               <item name="数据分析" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonproject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="拉勾网" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -376,19 +323,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonproject\数据分析\gensim" />
+      <recent name="D:\pythonproject\MySQL_project\NLP_DATA" />
+      <recent name="D:\pythonproject\数据分析\test" />
+      <recent name="D:\pythonproject\MySQL_project\book_photo" />
+      <recent name="D:\pythonproject\MySQL_project\py_GUI" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\pythonproject\数据分析\gensim" />
       <recent name="D:\pythonproject\爬虫\XXX.com_Spider-master" />
       <recent name="D:\python程序\爬虫\yello_net" />
       <recent name="D:\python程序" />
       <recent name="D:\python程序\web前端\叮叮书店" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\pythonproject\MySQL_project\book_photo" />
-      <recent name="D:\pythonproject\数据分析\gensim" />
-      <recent name="D:\pythonproject\数据分析\test" />
-      <recent name="D:\pythonproject\MySQL_project\py_GUI" />
-      <recent name="D:\pythonproject\MySQL_project\数据抓取" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -403,8 +350,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lagou">
-    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python程序" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,28 +365,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/test/01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python程序" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/test/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,7 +395,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python程序" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -478,12 +403,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/gensim" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django/django_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/gensim/g_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django/django_test/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python程序" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django/django_test/django_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django/django_test/django_test/urls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -492,7 +439,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word2vec_sim" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python程序" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -500,12 +447,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/gensim" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/gensim/g_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算/word2vec_sim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -514,7 +461,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lagou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word_2vec_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python程序" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -522,12 +469,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/拉勾网" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/拉勾网/lagou.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练/word_2vec_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -536,13 +483,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.User-AgentDemo" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.word2vec_sim" />
+      <item itemvalue="Python.word_2vec_main (1)" />
+      <item itemvalue="Python.urls" />
+      <item itemvalue="Python.01" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lagou" />
-        <item itemvalue="Python.02" />
-        <item itemvalue="Python.g_5" />
-        <item itemvalue="Python.01 (1)" />
-        <item itemvalue="Python.g_02" />
+        <item itemvalue="Python.01" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.urls" />
+        <item itemvalue="Python.word2vec_sim" />
+        <item itemvalue="Python.word_2vec_main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -644,12 +599,20 @@
       <workItem from="1557894976396" duration="15765000" />
       <workItem from="1557912270341" duration="1168000" />
       <workItem from="1557918281989" duration="1852000" />
-      <workItem from="1557983131776" duration="3782000" />
+      <workItem from="1557983131776" duration="4986000" />
+      <workItem from="1557989100903" duration="10033000" />
+      <workItem from="1558059744269" duration="5017000" />
+      <workItem from="1558147054345" duration="14437000" />
+      <workItem from="1558225971067" duration="13848000" />
+      <workItem from="1558312408748" duration="805000" />
+      <workItem from="1558313384294" duration="6166000" />
+      <workItem from="1558399748730" duration="5135000" />
+      <workItem from="1558602056360" duration="1127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="576814000" />
+    <option name="totallyTimeSpent" value="634586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -662,14 +625,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49353448" visible="true" weight="0.1860817" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49353448" visible="true" weight="0.21028744" />
       <window_info id="Structure" order="1" sideWeight="0.5048309" side_tool="true" weight="0.16490166" />
       <window_info id="Favorites" order="2" sideWeight="0.5064655" side_tool="true" weight="0.21255673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.494705" visible="true" weight="0.3409836" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.494705" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36393443" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -678,7 +640,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505295" side_tool="true" weight="0.26065573" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.50378215" side_tool="true" weight="0.41147542" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -714,346 +676,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/io/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6270">
-          <caret line="312" column="23" selection-start-line="312" selection-start-column="15" selection-end-line="312" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2134">
-          <caret line="97" column="28" selection-start-line="97" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sqlalchemy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1650">
-          <folding>
-            <element signature="e#244#892#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sqlalchemy/sql/schema.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1985">
-          <caret line="920" column="8" selection-start-line="920" selection-start-column="8" selection-end-line="920" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sqlalchemy/dialects/mysql/mysqlconnector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="159" selection-start-line="159" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/喜马拉雅/xima.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/chrome-driver/chrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/book_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-          <folding>
-            <element signature="e#23#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/数据正则化/zheng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#23#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/douyu/douyu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/直播弹幕/now.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/__init__.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pyecharts/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#91#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/jieba/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="505" selection-start-line="505" selection-end-line="505" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/自然语言处理/data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/自然语言处理/T_pyecharts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/corpora/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#163#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/corpora/dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="229" column="24" selection-start-line="225" selection-start-column="8" selection-end-line="229" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/自然语言处理/T_project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2486">
-          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
-          <folding>
-            <element signature="e#23#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/自然语言处理/T_sqlalchemy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#23#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/g_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
-          <folding>
-            <element signature="e#23#49#0" expanded="true" />
-            <element signature="e#171#869#0" />
-            <element signature="e#870#1258#0" />
-            <element signature="e#1280#1592#0" />
-            <element signature="e#1613#1941#0" />
-            <element signature="e#1942#2243#0" />
-            <element signature="e#2244#2537#0" />
-            <element signature="e#2558#2788#0" />
-            <element signature="e#2789#2977#0" />
-            <element signature="e#2998#3332#0" />
-            <element signature="e#3418#3777#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/t_return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/t_root_dian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#23#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/book_det.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
-          <folding>
-            <element signature="e#23#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/t_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1150659702/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="5066" column="8" selection-start-line="5066" selection-start-column="8" selection-end-line="5066" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/yello_net/yello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/z-1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/pkgs/gensim-3.7.1-py37h6538335_1/Lib/site-packages/gensim/models/doc2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="432" column="8" selection-start-line="432" selection-start-column="8" selection-end-line="432" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/yello_net/01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/user_dict.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/数据抓取/mysql_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL_project/数据抓取/py_tomysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="55" column="28" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Mysql_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/lsimodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="365" column="37" selection-start-line="365" selection-start-column="37" selection-end-line="365" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/book_title.txt">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/lsimodel.py" />
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/book_title.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/g_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding>
-            <element signature="e#23#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/g_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/g_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="30" column="13" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="e#23#71#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,24 +691,6 @@
             <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/g_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding>
-            <element signature="e#23#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/gensim/相似度.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1121,30 +730,329 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/test/01.py">
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/相似度.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="258808">
+          <caret line="11764" column="16" selection-start-line="11764" selection-start-column="16" selection-end-line="11764" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/test/求职.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="181">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#57#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/gensim/test.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/拉勾网/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/g_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding>
+            <element signature="e#23#49#0" expanded="true" />
+            <element signature="e#171#869#0" />
+            <element signature="e#870#1258#0" />
+            <element signature="e#1280#1592#0" />
+            <element signature="e#1613#1941#0" />
+            <element signature="e#1942#2243#0" />
+            <element signature="e#2244#2537#0" />
+            <element signature="e#2558#2788#0" />
+            <element signature="e#2789#2977#0" />
+            <element signature="e#2998#3332#0" />
+            <element signature="e#3418#3777#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据分析/test/02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="24" />
           <folding>
             <element signature="e#23#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/拉勾网/lagou.py">
+    <entry file="file://$PROJECT_DIR$/MySQL_project/NLP_DATA/book_title.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/data_a/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/data_a/test1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/data_a/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/t_root_dian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="506">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#23#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/book_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/t_root_ty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/book_det.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
+          <folding>
+            <element signature="e#23#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/g_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#23#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/jieba/posseg/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="271" column="17" selection-start-line="271" selection-start-column="17" selection-end-line="271" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/jieba/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/corpus.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/z-1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/g_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1611">
+          <caret selection-end-column="22" />
+          <folding>
+            <element signature="e#23#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_project/py_GUI/t_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="121" column="45" lean-forward="true" selection-start-line="121" selection-start-column="45" selection-end-line="121" selection-end-column="45" />
+          <folding>
+            <element signature="e#23#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/ldamodel.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/xlwings/conversion/framework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/自然语言处理/T_sqlalchemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/g_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/corpora/wikicorpus.py" />
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/stopword.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/word2vec.py" />
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练/sougou.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4905639" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/__init__.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/base_any2vec.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim-3.7.3-py3.7-win-amd64.egg/gensim/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/word2vec向量化训练/word_2vec_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="e#23#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/TextRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#23#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/jieba/analyse/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/句法分析/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算/data/P2_keywords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算/data/P1_keywords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算/word2vec_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/Gensim/g_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#23#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/django_test/django_test/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/django_test/teachar/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/django_test/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1150659702/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="2024" column="4" selection-start-line="2024" selection-start-column="4" selection-end-line="2024" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="750" selection-start-line="750" selection-end-line="750" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/test/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

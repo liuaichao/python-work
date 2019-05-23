@@ -9,11 +9,22 @@ from termcolor import *
 from book_det import Book_det
 from t_return import Return_book
 from t_root import T_root
+from gensim import corpora,models,similarities
+import jieba
+import g_5
 class MN():
     def __init__(self):
         self.book = Book()
         pass
     def start(self):
+        #进行自然语言处理初始化
+        self.corpus_s = g_5.return_dectionary_tfidf(R'D:\pythonproject\MySQL_project\NLP_DATA\book_title.txt')
+        # 读取数据
+        self.data_l = [title for title in open(r'D:\pythonproject\MySQL_project\NLP_DATA\book_title.txt', 'r', encoding='utf-8')]
+        # 加载lsi模型
+        self.lsi_model = models.LsiModel.load(R'D:\pythonproject\MySQL_project\NLP_DATA\model_lsi.lsi')
+        self.index_l = similarities.MatrixSimilarity(self.lsi_model)
+
         self.base = tkinter.Tk()
         self.base.geometry("800x500")
         self.base.geometry('+200+100')
@@ -74,11 +85,13 @@ class MN():
     # 事件绑定
     def print_item(self,event):
         # try:
-            self.book_name = (self.lb.get(self.lb.curselection())).split('       ')[0]
+            self.book_name = ((self.lb.get(self.lb.curselection())).split('       ')[0]).replace('\n','').strip()
+            print(self.book_name)
             #根据book_name查找
             self.my_s = Mysql_demo()
             self.sql_s = 'select title,author,publisher,recolagu,href,drop_type from book where title="{0}";'.format(self.book_name)
             self.book_data = self.my_s.search(self.sql_s)
+            print(self.book_data)
             self.bde = Book_det(self.id, self.name,self.book_name,self.book_data[0][5])
             self.bde.start(self.book_data)
 
@@ -107,19 +120,39 @@ class MN():
     #搜索
     def search(self):
         self.entry_con = self.var_entry.get()
-        self.entry_con = list(self.entry_con)
-        self.sql_re = '.*'
-        for i in self.entry_con:
-            self.sql_re = self.sql_re+i+'.*'
-        self.sql_s = Mysql_demo()
-        self.sql_search = "select title,author from book where title regexp '({0})';".format(self.sql_re)
-        self.search_datas = self.sql_s.search(self.sql_search)
+        # self.entry_con = list(self.entry_con)
+        # self.sql_re = '.*'
+        # for i in self.entry_con:
+        #     self.sql_re = self.sql_re+i+'.*'
+        # self.sql_s = Mysql_demo()
+        # self.sql_search = "select title,author from book where title regexp '({0})';".format(self.sql_re)
+        # self.search_datas = self.sql_s.search(self.sql_search)
+        # print(self.search_datas)
+        vec_bow = self.corpus_s[0].doc2bow(jieba.cut(self.entry_con))
+        # 输入数据转换为tfidf模型
+        vec_tfidf = self.corpus_s[1][vec_bow]
+        # 输入数据转换成lsi模型
+        vec_lsi = self.corpus_s[2][vec_tfidf]
+
+        sims = self.index_l[vec_lsi]
+        sims = sorted(enumerate(sims), key=lambda x: -x[1])
+        self.search_datas = []#初始化数据
+        # with open('相似度.txt', 'w', encoding='utf-8') as f:
+        count = 0
+        for i in sims:
+            if count<=60 and i[1] > 0:
+                a = [str(self.data_l[i[0]]),str(i[1])]
+                self.search_datas.append(a)
+                count += 1
+            else:
+                break
         # print(self.search_datas)
         #判断返回值
         if self.search_datas != False:
             #清空列表
             self.lb.delete(0,tkinter.END)
             self.list_item = [i for i in range(len(self.search_datas))]
+            # print(self.list_item)
             for item in self.list_item:
                 self.lb.insert(tkinter.END, item)
             #添加list数据

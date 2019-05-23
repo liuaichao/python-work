@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/数据分析/gensim/0.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/数据分析/gensim/book_title.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/数据分析/gensim/z-1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MySQL_project/NLP_DATA/book_title.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数据分析/Gensim/0.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数据分析/Gensim/book_title.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数据分析/Gensim/z-1.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/爬虫/test/test.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/爬虫/yello_net/yello_url.csv" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />

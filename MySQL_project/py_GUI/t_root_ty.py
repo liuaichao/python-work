@@ -9,26 +9,28 @@ from PIL import Image, ImageTk
 class T_root_ty():
     def __init__(self):
         # 数据分析跟数据可视化
-        self.my = Mysql_demo()
-        sql = 'select drop_type,count(*) from book_dian GROUP BY drop_type ORDER BY count(*) desc;'
-        datas = self.my.search(sql)
-        data1 = list()
-        data2 = list()
-        if len(datas) > 10:
-            for i in range(10):
-                data1.append(datas[i][0])
-                data2.append(datas[i][1])
-        else:
-            for i in range(len(datas)):
-                data1.append(datas[i][0])
-                data2.append(datas[i][1])
-        data = {"书名": data1, "数量": data2}
-        data = json.dumps(data)
-        student = pd.read_json(data)
-        # print(student)
-        student.plot.pie(x='书名',y='数量',labels=data1)
-        plt.savefig('D:\\pythonproject\\MySQL_project\\data_a\\test1.jpg')
-
+        try:
+            self.my = Mysql_demo()
+            sql = 'select drop_type,count(*) from book_dian GROUP BY drop_type ORDER BY count(*) desc;'
+            datas = self.my.search(sql)
+            data1 = list()
+            data2 = list()
+            if len(datas) > 10:
+                for i in range(10):
+                    data1.append(datas[i][0])
+                    data2.append(datas[i][1])
+            else:
+                for i in range(len(datas)):
+                    data1.append(datas[i][0])
+                    data2.append(datas[i][1])
+            data = {"书名": data1, "数量": data2}
+            data = json.dumps(data)
+            student = pd.read_json(data)
+            # print(student)
+            student.plot.pie(x='书名',y='数量',labels=data1)
+            plt.savefig('D:\\pythonproject\\MySQL_project\\data_a\\test1.jpg')
+        except Exception as ex:
+            print(ex)
 
     def start(self):
         self.base = tkinter.Toplevel()
