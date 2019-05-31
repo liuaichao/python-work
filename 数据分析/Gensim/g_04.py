@@ -68,7 +68,7 @@ print(list(vec_lsi))
 print(list(lsi[corpus]))
 print('-----------')
 index = similarities.MatrixSimilarity(lsi[corpus])#将语料库转换为LSI空间并对其进行索引
-print(np.array(index))
+# print(np.array(index))
 
 #3.执行查询
 #获得查询文档与9个索引文档的相似性

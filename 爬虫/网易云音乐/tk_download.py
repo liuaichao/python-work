@@ -1,4 +1,9 @@
 # -*- coding:utf-8 -*-
+import six
+import packaging
+import packaging.version
+import packaging.specifiers
+import packaging.requirements
 import tkinter
 import requests
 from selenium import webdriver
@@ -51,11 +56,15 @@ def get_download(url):
 
 def down_load(url, music_name, singer_name):
     # print(url)
-    text.insert(1,music_name+'--'+singer_name+'   下载完成')
 
-    req = requests.get(url, headers=headers, allow_redirects=False)
-    url = req.headers['Location']
-    request.urlretrieve(url, music_name+'.mp3')
+    try:
+        req = requests.get(url, headers=headers, allow_redirects=False)
+        url = req.headers['Location']
+        # print(url)
+        request.urlretrieve(url, music_name[:10]+'.mp3')
+        text.insert(1, music_name + '--' + singer_name + '   下载完成')
+    except:
+        text.insert(1, music_name + '--' + singer_name + '   下载失败！！')
 if __name__ == '__main__':
     base = tkinter.Tk()
     base.geometry("800x500")
