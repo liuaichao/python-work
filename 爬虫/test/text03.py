@@ -20,15 +20,19 @@ from lxml import etree
 #         else:
 #             pass
         # print(href)
-url = 'http://www.qlu.edu.cn/2019/0417/c38a124389/page.htm'
-req = requests.get(url)
-html = req.text
-html = etree.HTML(html)
-content = html.xpath('//div[@class="entry"]//text()')
-title = html.xpath('//h1[@class="arti_title"]/text()')[0]
-string = ''
-for i in content:
-    string1 = i.strip()
-    string = string+string1.replace('\n','')
+# url = 'http://www.qlu.edu.cn/2019/0417/c38a124389/page.htm'
+# req = requests.get(url)
+# html = req.text
+# html = etree.HTML(html)
+# content = html.xpath('//div[@class="entry"]//text()')
+# title = html.xpath('//h1[@class="arti_title"]/text()')[0]
+# string = ''
+# for i in content:
+#     string1 = i.strip()
+#     string = string+string1.replace('\n','')
+#
+# print(title)
 
-print(title)
+url = 'https://m.weibo.cn/api/statuses/repostTimeline?id=4380261561116383&page=2188'
+req = requests.get(url)
+print(req.text)

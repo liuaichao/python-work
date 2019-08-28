@@ -13,6 +13,15 @@
       <sourceFolder url="file://$MODULE_DIR$/数据分析/learning-nlp-master/chapter-7/word2vec训练与相似度计算" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Django" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/爬虫/PornSpider-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/机器学习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/邮件发送" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/人工智能" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web前端" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/web-socket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tkinter--飞机大战" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PythonApplication1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/img" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/机器学习/mglearn" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (python程序) (2)" jdkType="Python SDK" />
