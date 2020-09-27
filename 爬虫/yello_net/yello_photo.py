@@ -81,3 +81,4 @@ if __name__ == '__main__':
             for photo_url in photo_urls:
                 st(photo_url, headers, m)
 
+

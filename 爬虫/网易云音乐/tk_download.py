@@ -1,9 +1,6 @@
 # -*- coding:utf-8 -*-
 import six
-import packaging
-import packaging.version
-import packaging.specifiers
-import packaging.requirements
+
 import tkinter
 import requests
 from selenium import webdriver

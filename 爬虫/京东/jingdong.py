@@ -26,6 +26,9 @@ headers = {
 }
 #id
 ID = 0
+# [1,2,3]
+# ['a','b','c']
+# [(1,'a'),(2,'b')]
 for url,i in zip(urls, range(90)):
     time.sleep(1)
     req = requests.get(url, headers=headers)

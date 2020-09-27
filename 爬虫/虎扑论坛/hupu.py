@@ -43,7 +43,8 @@ if __name__ == '__main__':
             '评论量':i[4],
             '最后回复者':i[5]
         }
-        to_mongo(data)
+        print(data)
+        # to_mongo(data)
 
 
     # print(huifu)

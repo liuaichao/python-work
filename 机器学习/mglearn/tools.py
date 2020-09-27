@@ -114,7 +114,7 @@ def print_topics(topics, feature_names, sorting, topics_per_chunk=6,
 def get_tree(tree, **kwargs):
     try:
         # python3
-        from io import StringIO
+        from ioc import StringIO
     except ImportError:
         # python2
         from StringIO import StringIO

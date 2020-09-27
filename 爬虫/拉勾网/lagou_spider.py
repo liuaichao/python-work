@@ -7,12 +7,11 @@ import time
 import urllib.request
 import urllib.parse
 import pymysql
-import io
 import random
 import sys
 import urllib.error
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='gb18030')
+# sys.stdout = ioc.TextIOWrapper(sys.stdout.buffer, encoding='gb18030')
 
 
 def spider_a():
@@ -34,50 +33,50 @@ def spider_a():
             all_informations = soup.select('div.menu_sub.dn  dl  dd  a')
             job_urls = [i['href'] for i in all_informations]
             print(job_urls)
-            for job_url in job_urls:
-                for page in range(1, 31):
-                        print(page)
-                        link = '{}{}/?filterOption=3'.format(job_url, str(page))
-                        if False:
-                            pass
-                        request_a = urllib.request.Request(url =link,headers=headers)
-                        time.sleep(random.uniform(0, 0.05))
-                        try:
-                            resp = urllib.request.urlopen(request_a)
-                        except urllib.error.URLError as e:
-                            print(e)
-                            soup =BeautifulSoup(resp,'lxml')
-                            informations = soup.select('a.position_link h3')
-                            publishers = soup.select('span.format-time ')
-                            adds = soup.select('ul  li  div.list_item_top  div.position  div.p_top  a  span  em')
-                            moneys = soup.select('ul  li  div.list_item_top  div.position  div.p_bot  div  span')
-                            needs = soup.select('ul  li  div.list_item_top  div.position  div.p_bot  div')
-                            companys = soup.select('ul  li  div.list_item_top  div.company  div.company_name  a')
-                            tags = []
-                            if soup.find('div', class_='li_b_l'):
-                                tags = soup.select('ul  li  div.list_item_bot  div.li_b_l')
-                            fulis = soup.select('ul  li  div.list_item_bot  div.li_b_r')
-                            for information,publish,add,money,need,company,tag,fuli in zip(informations,adds,publishers,moneys,needs,companys,tags,fulis):
-                                    岗位信息=information.get_text()
-                                    工作地址=publish.get_text()
-                                    发布时间=add.get_text()
-                                    薪资信息=money.get_text()
-                                    经验要求=need.get_text().split('\n')[2]
-                                    发布公司=company.get_text()
-                                    招聘信息=tag.get_text().replace('\n','-')
-                                    公司福利=fuli.get_text()
-                                    print(岗位信息)
-                                    # db = pymysql.connect('localhost', 'root', '123456', 'dashuju')
-                                    # print('ok')
-                                    # cursor = db.cursor()
-                                    # sql = "INSERT INTO `dashuju`.`lagou` (`岗位信息`, `工作地址`, `发布时间`, `薪资信息`, `经验要求`, `发布公司`, `招聘信息`, `公司福利`) VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % (岗位信息,工作地址,发布时间,薪资信息,经验要求,发布公司,招聘信息,公司福利)
-                                    #
-                                    # cursor.execute(sql)
-                                    # db.commit()
-
-
-
-
-
+#             for job_url in job_urls:
+#                 for page in range(1, 31):
+#                         print(page)
+#                         link = '{}{}/?filterOption=3'.format(job_url, str(page))
+#                         if False:
+#                             pass
+#                         request_a = urllib.request.Request(url =link,headers=headers)
+#                         time.sleep(random.uniform(0, 0.05))
+#                         try:
+#                             resp = urllib.request.urlopen(request_a)
+#                         except urllib.error.URLError as e:
+#                             print(e)
+#                             soup =BeautifulSoup(resp,'lxml')
+#                             informations = soup.select('a.position_link h3')
+#                             publishers = soup.select('span.format-time ')
+#                             adds = soup.select('ul  li  div.list_item_top  div.position  div.p_top  a  span  em')
+#                             moneys = soup.select('ul  li  div.list_item_top  div.position  div.p_bot  div  span')
+#                             needs = soup.select('ul  li  div.list_item_top  div.position  div.p_bot  div')
+#                             companys = soup.select('ul  li  div.list_item_top  div.company  div.company_name  a')
+#                             tags = []
+#                             if soup.find('div', class_='li_b_l'):
+#                                 tags = soup.select('ul  li  div.list_item_bot  div.li_b_l')
+#                             fulis = soup.select('ul  li  div.list_item_bot  div.li_b_r')
+#                             for information,publish,add,money,need,company,tag,fuli in zip(informations,adds,publishers,moneys,needs,companys,tags,fulis):
+#                                     岗位信息=information.get_text()
+#                                     工作地址=publish.get_text()
+#                                     发布时间=add.get_text()
+#                                     薪资信息=money.get_text()
+#                                     经验要求=need.get_text().split('\n')[2]
+#                                     发布公司=company.get_text()
+#                                     招聘信息=tag.get_text().replace('\n','-')
+#                                     公司福利=fuli.get_text()
+#                                     print(岗位信息)
+#                                     # db = pymysql.connect('localhost', 'root', '123456', 'dashuju')
+#                                     # print('ok')
+#                                     # cursor = db.cursor()
+#                                     # sql = "INSERT INTO `dashuju`.`lagou` (`岗位信息`, `工作地址`, `发布时间`, `薪资信息`, `经验要求`, `发布公司`, `招聘信息`, `公司福利`) VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % (岗位信息,工作地址,发布时间,薪资信息,经验要求,发布公司,招聘信息,公司福利)
+#                                     #
+#                                     # cursor.execute(sql)
+#                                     # db.commit()
+#
+#
+#
+#
+#
 if __name__ == '__main__':
     spider_a()  #爬虫
