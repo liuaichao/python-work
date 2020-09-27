@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f22c32-bb6b-4301-9a2d-bf0233a721e9" name="Default Changelist" comment="" />
+    <list default="true" id="f0f22c32-bb6b-4301-9a2d-bf0233a721e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -625,7 +645,7 @@
       <workItem from="1594348388605" duration="1223000" />
       <workItem from="1599294181088" duration="503000" />
       <workItem from="1599294717535" duration="5562000" />
-      <workItem from="1601169616267" duration="2215000" />
+      <workItem from="1601169616267" duration="3145000" />
     </task>
     <task id="LOCAL-00001" summary="commit message">
       <created>1601170668758</created>
@@ -634,11 +654,29 @@
       <option name="project" value="LOCAL" />
       <updated>1601170668758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit message">
+      <created>1601176205625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601176205625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit message" />
@@ -650,10 +688,10 @@
     </state>
     <state x="750" y="299" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1593315572789" />
     <state x="1200" y="362" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1599294725972" />
-    <state x="1518" y="90" key="CommitChangelistDialog2" timestamp="1601170642989">
+    <state x="1518" y="90" key="CommitChangelistDialog2" timestamp="1601176203727">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1518" y="90" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1601170642989" />
+    <state x="1518" y="90" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1601176203727" />
     <state x="1619" y="238" key="FileChooserDialogImpl" timestamp="1601170382075">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
